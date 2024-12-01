@@ -1,0 +1,44 @@
+.app-container{
+    width:100vw ;
+    height: 70vh;
+    margin: 0;
+    padding-bottom: 20px;
+}
+
+.app-header{
+    width: 100%;
+    padding-top: 15px;
+}
+
+#app-title-h1{
+    color: #000036;
+    font-family: 'Spooky', serif;
+    font-size: 60px;
+}
+
+/* Form Styles */
+#app-form-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+}
+.app-form-label{
+    color: #000036;
+    font-family: 'Spooky', serif;
+    font-size: 25px;
+    margin: 15px 0 0 0;
+}
+#app-btn{
+    font-size: 20px;
+    background-color: #000036;
+    border: none;
+    font-family: 'Spooky', serif;
+    color: white;
+    border-radius: 10px;
+    padding: 8px;
+    margin: 10px 0;
+    text-decoration: none;
+
+}

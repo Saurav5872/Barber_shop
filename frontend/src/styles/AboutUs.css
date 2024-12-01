@@ -1,0 +1,47 @@
+body{
+    /* width: 100vw;
+    height: auto; */
+    overflow-x: hidden; 
+    background-color: #F9F8ED;
+}
+
+.about-container{
+    width: 100%;
+    height: auto;
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+.about-title{
+    width: 100vw;
+}
+.title-h1{
+    font-family: 'Spooky', serif;
+    font-size: 70px;
+    color: #000036;
+    margin-bottom: 0;
+}
+.about-content{
+    padding-left: 10%;
+    margin: 0 0;
+}
+.about-p{
+    color: #020261;
+    font-size: 18px;
+}
+
+/*left side styles*/
+
+.about-image{
+    width: 100%; 
+    height: auto;
+    border-radius: 50%;
+    background: linear-gradient(to bottom right,  #6589d8,  #000036);
+    max-height: 550px;
+    max-width: 550px;
+    align-self: center;
+}
+.image-col{
+    display: flex;
+    justify-content: center;
+}
+

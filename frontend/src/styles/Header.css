@@ -1,0 +1,41 @@
+
+.navbar{
+    display: flex;
+    justify-content: space-around !important;
+    height: 10vh !important;
+    min-height: 100px;
+    width: 100vw;
+}
+
+.logo{
+    width: 80px; /* Adjust the width as needed */
+    height: auto; /* Maintain the aspect ratio */
+    border-radius: 50%;
+
+}
+
+.store-name{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Spooky', serif;
+    color: #F9F8ED;
+    font-size: 30px !important;
+}
+
+.logo-col{
+    margin-right: 10%;
+}
+
+.nav-btn{
+    font-family: 'Spooky', serif;
+    color: #F9F8ED;
+    font-size: 25px;
+    font-weight: 400 !important;
+}
+
+.nav-btn:hover{
+    color: #F9F8ED;
+    text-decoration: underline;
+}

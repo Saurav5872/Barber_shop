@@ -1,0 +1,79 @@
+
+/* Container styles */
+
+/* Title styles */
+#service-container{
+    margin-bottom: 3%;
+}
+
+#service-title-container{
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    text-align: center;
+}
+
+#service-title-h1{
+    font-family: 'Spooky', serif;
+    color: #000036;
+    font-size: 80px;
+    padding-top: 3%;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.service-category-titles-h3{
+    font-family: 'Spooky', serif;
+    color: #000036;
+    text-decoration: underline;
+    font-size: 60px;
+    margin: 15px;
+    text-align: center;
+}
+
+/* Body Styles */
+.service-card-container-col{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/*Card Styles*/
+.service-cards{
+    background-color:#000036;
+    width: 300px;
+    height: auto;
+    margin: 10px 10px;
+    color: #F9F8ED ;
+    box-shadow: #000036;
+}
+.service-cards:hover{
+    opacity: 80%;
+}
+
+.service-subtitle{
+    display: flex;
+    justify-content: start;
+
+}
+.service-p{
+    margin-right: 20px;
+}
+
+.service-title{
+    font-family: 'Spooky', serif;
+    font-size: 25px;
+}
+#service-booking-btn{
+    margin-bottom: 10px;
+    background-color: white ;
+    color: #000036;
+    outline: none;
+    box-shadow: none;
+    border-radius: 10px;
+    height: 35px;
+    width: 200px;
+    font-family: 'Spooky', serif;
+    font-size: 25px;
+}
+

@@ -1,0 +1,33 @@
+
+.row-1{
+    height: 700px;
+    width: 100vw;
+    background-image: url('../../public/images/welcome_1.webp'); 
+    background-size: cover;
+    background-position: center; 
+    background-attachment: fixed;
+    z-index: -1; 
+    background-position-y: top;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.welcome-p{
+    margin: 0;
+    font-size: 65px;
+    font-family: 'Spooky', serif;
+    color: #F9F8ED;
+    z-index: 1;
+    text-align: center;
+}
+.welcome-btn{
+    height: 50px;
+    width: 150px;
+    font-size: 30px;
+    border-radius: 10px;
+    border: none;
+}
+.welcome-btn:active{
+    transform: scale(.98);
+}
+

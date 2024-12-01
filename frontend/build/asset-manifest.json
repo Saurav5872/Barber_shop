@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d89d501.css",
+    "main.js": "/static/js/main.cc97f177.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/hair_shears_patent.jpg": "/static/media/hair_shears_patent.8145a37187fd8f8f24e8.jpg",
+    "static/media/barber_pole_patent.jpg": "/static/media/barber_pole_patent.61e81dd473ff2469f9ab.jpg",
+    "static/media/welcome_1.webp": "/static/media/welcome_1.32048c37e56cb02ea005.webp",
+    "index.html": "/index.html",
+    "main.3d89d501.css.map": "/static/css/main.3d89d501.css.map",
+    "main.cc97f177.js.map": "/static/js/main.cc97f177.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d89d501.css",
+    "static/js/main.cc97f177.js"
+  ]
+}

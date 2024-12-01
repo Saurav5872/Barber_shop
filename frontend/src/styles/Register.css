@@ -1,0 +1,78 @@
+
+.register-container{
+    width: 100vw;
+    height: 100vh;
+    background-color: #7C2B2B;
+    z-index: -2;
+    
+}
+
+/*Left Column Styles*/
+.register-right-col{
+    background-image: url('../../public/images/barber_pole_patent.jpg');
+    background-size:cover ;
+    background-position: center; 
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*register Col Styles*/
+.register-col{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #F9F8ED;
+}
+.register-form-label{
+    font-size: 25px;
+    font-family: 'Spooky', serif;
+}
+.form-control {
+    border: 0;
+}
+.register-form-inputs{
+    font-size:18px ;
+}
+.register-h1{
+    font-size: 50px;
+    margin-bottom: 0;
+    font-family: 'Spooky', serif;
+}
+.register-p{
+    font-size: 25px;
+    font-family: 'Spooky', serif;
+}
+.register-btn{
+    font-size: 25px;
+    background-color: #000036;
+    border: none;
+    font-family: 'Spooky', serif;
+    color: white;
+    border-radius: 10px;
+    width: 100px;
+    height: 45px;
+}
+.register-btn:active{
+    transform: scale(.95);
+    background-color: #000036;
+}
+.register-login{
+    display: flex;
+}
+.register-link{
+    text-decoration: underline;
+    color: #F9F8ED;
+}
+.register-link:hover{
+    color: #000036;
+}
+.register-login{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
